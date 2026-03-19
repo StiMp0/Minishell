@@ -10,6 +10,7 @@ int main()
 	while (i <= 100)
 	{
 		write (1, "2", 1);
+		write (1, "\n",1);
 		i++;
 	}
 	return (0);
