@@ -11,7 +11,7 @@ int main()
 	{
 		write (1, "2", 1);
 		write (1, "\n",1);
-		printf(hello worl\n);
+		printf(hello world\n);
 		i++;
 	}
 	return (0);
